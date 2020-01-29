@@ -6,3 +6,6 @@ Exemplary real world app built with Golang + Gin
 ```bash
 go run pkg/conduit-gin/main.go
 ```
+
+## Resources
+- https://github.com/gin-gonic/gin
