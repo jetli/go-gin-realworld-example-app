@@ -10,4 +10,6 @@ go run pkg/conduit-gin/main.go
 
 ## Resources
 - https://github.com/gin-gonic/gin
+- https://github.com/gofiber/fiber
+- https://github.com/valyala/fasthttp
 - https://github.com/golang/go/wiki/Modules
