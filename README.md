@@ -5,7 +5,7 @@ Exemplary real world app built with Golang + Gin/Fasthttp/Fiber/Echo/Chi/Beego +
 
 ```bash
 go mod download
-go run pkg/conduit-gin/main.go
+go run pkg/conduit-app/main.go
 ```
 
 ## Web frameworks
