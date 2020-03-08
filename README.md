@@ -22,3 +22,4 @@ go run pkg/conduit-gin/main.go
 
 ## Resources
 - https://github.com/golang/go/wiki/Modules
+- https://www.techempower.com/benchmarks/
