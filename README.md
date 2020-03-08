@@ -1,5 +1,5 @@
 # go-gin-realworld-example-app
-Exemplary real world app built with Golang + Gin
+Exemplary real world app built with Golang + Gin/Fasthttp/Fiber
 
 ## Getting started
 
