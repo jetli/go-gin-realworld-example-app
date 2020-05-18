@@ -1,4 +1,4 @@
-module github.com/jetli/go-gin-realworld-example-app
+module github.com/jetli/go-realworld-example-app
 
 go 1.14
 
